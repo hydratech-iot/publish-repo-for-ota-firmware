@@ -1,0 +1,9 @@
+{
+  "configure": {
+    "version": "0.0.2"
+  },
+  "ota":{
+    "ver":"3.1.0",
+    "url":"https://raw.githubusercontent.com/hydratech-iot/publish-repo-for-ota-firmware/main/hotbox_esp32_v1.0.21_merged.bin"
+  }
+}
