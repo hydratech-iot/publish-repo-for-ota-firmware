@@ -1,9 +1,9 @@
 {
   "configure": {
-    "version": "1.4.0"
+    "version": "1.1.4"
   },
   "ota":{
-    "ver":"1.4.0",
-    "url":"https://raw.githubusercontent.com/hydratech-iot/publish-repo-for-ota-firmware/main/hotbox_esp32_v1.2.0.bin"
+    "ver":"1.1.4",
+    "url":"https://raw.githubusercontent.com/hydratech-iot/publish-repo-for-ota-firmware/main/hotbox_esp32_v1.1.4.bin"
   }
 }
